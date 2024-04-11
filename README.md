@@ -4,4 +4,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 # Simple blog card design
 
-Url of the design -
+Url of the design - https://frontend-mentor-challenge-blog-preview-card.vercel.app/
+
